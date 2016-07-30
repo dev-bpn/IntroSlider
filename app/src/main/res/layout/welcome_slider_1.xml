@@ -15,7 +15,7 @@
             android:layout_width="@dimen/img_width_height"
             android:layout_height="@dimen/img_width_height"
             android:src="@drawable/slider_book"
-            android:tint="@color/white"/>
+            android:tint="@android:color/white"/>
 
         <TextView
             android:layout_width="wrap_content"
