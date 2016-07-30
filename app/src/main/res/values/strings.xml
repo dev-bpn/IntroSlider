@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Intro Slider</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_welcome">Home Screen</string>
+
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Different Book!</string>
+    <string name="slide_1_desc">The best Biology app available in the store which includes different books of biology!</string>
+    <string name="slide_2_title">Search Topics</string>
+    <string name="slide_2_desc">Search filter which makes you easy to navigate between different topics!</string>
+    <string name="slide_3_title">Offline Mode</string>
+    <string name="slide_3_desc">Read the chapters in offline mode by generating the pdf!</string>
+    <string name="slide_4_title">Favourite Topic</string>
+    <string name="slide_4_desc">Just click the favourite icon inorder to bookmark the topic!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
